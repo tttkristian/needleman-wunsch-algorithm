@@ -23,5 +23,9 @@ we can get more infomation about:
   - Suitable for more divergent sequences 
 
   
-  ![hello](images/global.png)
+  ![](images/global.png)
+
+  Needleman-Wunsch is the most common Global Alignment Algorithm
+
+  to see a better exmaple of this algorithm visit this calculator site: https://bioboot.github.io/bimm143_W20/class-material/nw/
 
