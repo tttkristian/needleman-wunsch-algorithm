@@ -1,2 +1,27 @@
-# needleman-wunsch-algorithm
-The Needleman–Wunsch algorithm is an algorithm used in bioinformatics to align protein or nucleotide sequences. It was one of the first applications of dynamic programming to compare biological sequences. The algorithm was developed by Saul B. Needleman and Christian D. Wunsch and published in 1970.
+# Biological sequence aligment
+
+biological sequence is the primary structure of a DNA, RNA and proteins. Each one of those are made up of a lienar arragnement of nucleotide or amino acids. 
+
+### Now why do we need to align these sequences?
+
+we can get more infomation about:
+
+- Functional Relationships 
+ - Structural Relationships 
+ - Evolutionary Relationships 
+
+ ### Now there are two types of Aligments
+
+## 1.Global aligmment 
+  -  Tries to align an entire sequence 
+   - Align all lettes from a query and target 
+   -Suitable for closely related sequences 
+## 2. Local Alignments 
+
+   - Align regions having highest similarities 
+ - Align substrings of taget with substring of queries 
+  - Suitable for more divergent sequences 
+
+  
+  ![hello](images/global.png)
+
